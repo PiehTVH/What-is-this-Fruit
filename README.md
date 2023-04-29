@@ -1,6 +1,6 @@
 # What-is-this-Fruit
 ## Dataset:
-Is is available on Kaggle https://www.kaggle.com/moltean/fruits or  https://github.com/Horea94/Fruit-Images-Dataset
+It is available on Kaggle https://www.kaggle.com/moltean/fruits or  https://github.com/Horea94/Fruit-Images-Dataset
 
 ## Video Walkthrough
 Here's a walkthrough of implemented features:
